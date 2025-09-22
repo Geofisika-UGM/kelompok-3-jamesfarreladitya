@@ -23,5 +23,14 @@ Jadi gini... selama ngerjain praktikum ini, aku belajar BANYAK (dan sedikit jatu
 Ingat ya… coding itu fun kok! (boong) Jangan lupa rasa seneng pas akhirnya kodenya jalan 🥹  
 Terus bikin project-project lucu, terus belajar, dan jangan lupa tetap jadi diri sendiri yang **keren & gemesin** 💅✨  
 
+---
 
+### 🤯 Hal yang Masih Bikin Aku Bingung:
+- Kenapa error suka muncul? 🌚  
+- Kenapa `;` (titik koma) hilang bisa bikin error? 🥲  
+- Apa bedanya bug, feature, sama "fitur yang kebetulan jalan"? 😅  
+- Kenapa kadang code yang harusnya salah malah jalan? (spooky 👻)    
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/za1KaIghXBEAAAAC/haibara-ai-detective-conan.gif" alt="ai haibara thinking" width="300"/>
+</p>
