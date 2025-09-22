@@ -41,9 +41,14 @@ Terus bikin project-project lucu, terus belajar, dan jangan lupa tetap jadi diri
 
 **Bukti Eksperimen:**
 
-![Hasil Eksperimen 1](skrinsyut/Screenshot-49.png)  
-![Hasil Eksperimen 2](skrinsyut/Screenshot-50.png)
-![Hasil Eksperimen 3](skrinsyut/Screenshot-51.png)
+- <img src="Screenshot-49.png" alt="Screenshot 49" width="400">
+- <img src="Screenshot-50.png" alt="Screenshot 50" width="400">
+- <img src="Screenshot-51.png" alt="Screenshot 51" width="400">
+
 
 ## Hal Yang Masih Bikin Aku Bingung PT2
 - Kenapa gak keluar foto nya???????, aku udh lakukan smuaaa benerrrrr kenaffah begini ya tuhan susah kali ngecoding, susah banget ya allah mau nangys aja😭😭😭😭😭😭😭
+- akhirnya bisaaaaa yeayyyyyyyy
+
+
+
