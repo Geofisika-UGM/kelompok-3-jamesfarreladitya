@@ -36,6 +36,15 @@ Cool, pintar, dan misterius – vibes-nya persis aku pas lagi ngoding tengah mal
   <img src="https://media1.tenor.com/m/za1KaIghXBEAAAAC/haibara-ai-detective-conan.gif" width="280"/>
 </p>
 
+<p align="center">
+  
+![Haibara Stan](https://img.shields.io/badge/Haibara-Stan-pink?style=for-the-badge) 
+![Conan Enjoyer](https://img.shields.io/badge/Conan-Enthusiast-blue?style=for-the-badge)
+![Mystery Solver](https://img.shields.io/badge/Mystery-Solver-purple?style=for-the-badge)
+
+</p>
+
+
 
 ---
 
